@@ -3,5 +3,8 @@ using namespace std;
 int m(){
 	int a;
 	
-	//nfew fille;
+	void funt(){
+	 // base case
+
+	}
 }
