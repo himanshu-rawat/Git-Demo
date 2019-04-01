@@ -9,6 +9,9 @@ class node{
         next=NULL;
     }
 };
+void loop{
+//loop
+}
 void InsertAtEnd(node* &head,int d){
     if(head==NULL){
         head=new node(d);
