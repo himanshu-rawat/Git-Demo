@@ -100,6 +100,9 @@ void Sum(node *head, node *head1){
 void reversal{
 	// Code for Reversal
 }
+void insert{
+	// Code for Insert
+}
 int main(){
     node *head=NULL;
     node *head1=NULL;
