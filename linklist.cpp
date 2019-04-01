@@ -97,6 +97,9 @@ void Sum(node *head, node *head1){
     }
     print(newHead);   
 }
+void reversal{
+	// Code for Reversal
+}
 int main(){
     node *head=NULL;
     node *head1=NULL;
