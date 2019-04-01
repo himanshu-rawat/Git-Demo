@@ -1,5 +1,6 @@
 #include<iostream>
 using namespace std;
-int n(){
+int m(){
+
 	//nfew fille;
 }
